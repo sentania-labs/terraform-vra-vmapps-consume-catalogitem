@@ -1,2 +1,3 @@
-# terraform-vra-vmapps-catalogitem
-## This module is deprecated, please use terraform-vra-vmapps-deployment
+# terraform-vra-vmapps-consume-catalogitem
+
+> **Deprecated.** Use [`terraform-vra-deployment`](https://github.com/sentania-labs/terraform-vra-deployment) instead.
